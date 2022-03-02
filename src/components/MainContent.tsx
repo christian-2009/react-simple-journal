@@ -27,6 +27,7 @@ function MainContent(): JSX.Element {
         postDate={{ month: "March", day: 3, year: 2003 }}
       />
       <section>
+        <h2>I am Batman</h2>
         <h2>Writing poetry</h2>
         <p>
           <i>Tags: poetry, meta</i>
