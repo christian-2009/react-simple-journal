@@ -1,5 +1,5 @@
 interface JournalEntryProps {
-  title: string; 
+  title: string;
   tags: string[];
   body: string;
   views: number;
